@@ -43,6 +43,6 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 23. Each `primary key` column should follow the naming convention `table_name_id`. For example : the `moon` table should have a `primary key` column named `moon_id`.
 24. Each `foreign key` column should have the same name as the `column` it is referencing.
 
-25. # Testing
-26. ![Tutorial Completed](TutorialCompleted.png)
+# Testing
+![Tutorial Completed](TutorialCompleted.png)
 
